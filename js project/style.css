@@ -1,0 +1,39 @@
+h1{
+    color:rgb(0, 255, 195);
+   background-color: black;
+   text-align: center;
+   text-shadow: 2px 2px 3px whitesmoke;
+   border-radius: 50px;
+   
+}
+.button{
+    height:100px;
+    width:150px; 
+    display:inline-block;
+    justify-content: center;
+    margin:10px;
+    box-shadow: 4px 4px  3px black;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+ #Grey{
+  background-color: gray;
+}
+ #White{
+   background-color: antiquewhite;
+}
+ #Blue{
+    background-color: blue;
+}
+#Yellow{
+    background-color: yellow;
+}
+#Purple{
+    background-color: rgb(165, 57, 165);
+}
+#main{
+    justify-content: center;
+}
+h2{
+   text-align: center;
+}
